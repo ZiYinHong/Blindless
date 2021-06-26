@@ -27,5 +27,5 @@ file structire
 
 
 
-
+- - -
 `其他詳見程式說明書.pdf` 
