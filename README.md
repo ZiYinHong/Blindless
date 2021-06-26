@@ -1,4 +1,4 @@
-# Blindless
+# Blindless 輔助視障者看世界之裝置
 
 程式開發與執行環境說明 
 1. python3.x 
