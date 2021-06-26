@@ -30,3 +30,7 @@ file structire
 
 - - -
 其他詳見程式說明書.pdf
+
+
+**live DEMO:**
+https://www.youtube.com/watch?v=KlPBLS9UvVs
