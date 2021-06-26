@@ -1,11 +1,11 @@
 # Blindless
 
-####程式開發與執行環境說明 
+程式開發與執行環境說明 
       1. python 3.x 
       2. Raspberry Pi 4 
       3. linux
 
-####file structire
+file structire
 ```
 <blindless>
 ├── blindless.py
@@ -15,7 +15,7 @@
 └── 程式說明書.pdf
 ```
 
-####說明 
+說明:
 - blindless.py 
     主程式
 - image.jpg 
