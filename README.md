@@ -1,13 +1,13 @@
 # Blindless 
 ## 輔助視障者看世界之裝置
 
-####程式開發與執行環境說明 
+#### 程式開發與執行環境說明 
 1. python3.x 
 2. Raspberry Pi 4 
 3. linux
 
 
-####file structire
+#### file structire
 ```
 <blindless>
 ├── blindless.py
@@ -18,7 +18,7 @@
 ```
 
 
-####說明:
+#### 說明:
 - blindless.py 
   >主程式
 - image.jpg 
@@ -27,7 +27,7 @@
   >會將模型輸出的語句，存在此predict_output.txt file
 
 
-####其他詳見程式說明書.pdf
+#### 其他詳見程式說明書.pdf
 
 
 **live DEMO:**
